@@ -14,6 +14,9 @@ Ulangi: Kembali ke langkah generate bilangan acak selama hitung masih kurang dar
 Selesai
 
 HASIL PROGRAM 
+
+
+
 ![Screenshot 2024-11-01 122517](https://github.com/user-attachments/assets/78091cda-9502-4d80-9d8f-5f115fe95822)
 
 * Algoritma Latihan 2 *
@@ -33,6 +36,9 @@ Tampilkan total keuntungan selama periode yang dihitung.
 Selesai
 
 HASIL PROGRAM 
+
+
+
 ![Screenshot 2024-10-31 224045](https://github.com/user-attachments/assets/4b91fe3c-921c-4e31-95a3-0264b2161197)
 
 * Algoritma Program 1 *
@@ -50,7 +56,10 @@ Tambahkan keuntungan_bulan_ini ke total_keuntungan.
 Output:
 Tampilkan total keuntungan selama periode yang dihitung.
 Selesai
+
   HASIL PROGRAM
+
+
   ![Screenshot 2024-11-01 155726](https://github.com/user-attachments/assets/39774243-ad0d-40ef-a2a2-71b3f095c328)
 
 
